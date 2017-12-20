@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2017", "AdventOfCode2017\AdventOfCode2017.csproj", "{90DED7E8-78E6-40D0-B42B-6D8F1017CA1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicTests", "LogicTests\LogicTests.csproj", "{029C63D7-A92F-49D0-8D9D-7AB81A244775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{44F66F9C-FEFF-4761-BB11-1D3BCEC26535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DED7E8-78E6-40D0-B42B-6D8F1017CA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DED7E8-78E6-40D0-B42B-6D8F1017CA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DED7E8-78E6-40D0-B42B-6D8F1017CA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DED7E8-78E6-40D0-B42B-6D8F1017CA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029C63D7-A92F-49D0-8D9D-7AB81A244775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029C63D7-A92F-49D0-8D9D-7AB81A244775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029C63D7-A92F-49D0-8D9D-7AB81A244775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029C63D7-A92F-49D0-8D9D-7AB81A244775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F66F9C-FEFF-4761-BB11-1D3BCEC26535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F66F9C-FEFF-4761-BB11-1D3BCEC26535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F66F9C-FEFF-4761-BB11-1D3BCEC26535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F66F9C-FEFF-4761-BB11-1D3BCEC26535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6E3E24-E186-46AD-9F5F-93721CD7D848}
+	EndGlobalSection
+EndGlobal
